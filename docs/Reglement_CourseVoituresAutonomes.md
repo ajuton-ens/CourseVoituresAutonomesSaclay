@@ -1,4 +1,4 @@
-# Réglement de la course de voitures autonomes de Paris Saclay
+# Règlement de la course de voitures autonomes de Paris Saclay
 
 Ceci est une proposition de règlement, n'hésitez pas à ajouter vos contributions.
 
