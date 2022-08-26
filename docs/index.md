@@ -31,4 +31,4 @@ Un résumé et une vidéo des éditions précédentes est disponible sur la page
 
 ## Git
 
-Le [dépôt Git](https://github.com/ajuton-ens/CourseVoituresAutonomesSaclay) permet de trouver le réglement ainsi que l'ensemble des ressources pour participer à la course de voitures autonomes de Paris Saclay et d'y partager les siennes.
+Le [dépôt Git](https://github.com/ajuton-ens/CourseVoituresAutonomesSaclay) permet de trouver le réglement, quelques photos et vidéos ainsi que l'ensemble des ressources pour participer à la course de voitures autonomes de Paris Saclay et d'y partager les siennes.
