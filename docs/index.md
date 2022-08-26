@@ -1,6 +1,6 @@
 # Course de voitures autonomes Paris-Saclay
 
-L'événement accueille depuis 2020 des équipes d'étudiants pour une course de voitures 1/10ème autonomes, dans un esprit convivial et de collaboration. La perspective de la victoire finale n'empêche pas les équipes de s'entraider pendant l'année dans l'optique de progrès communs.
+L'événement accueille depuis 2020 des équipes d'étudiants (IUT, écoles d'ingénieurs, universités) pour une course de voitures 1/10ème autonomes, dans un esprit convivial et de collaboration. La perspective de la victoire finale n'empêche pas les équipes de s'entraider pendant l'année dans l'optique de progrès communs.
 N'hésitez pas à rejoindre la compétition.
 
 <img 

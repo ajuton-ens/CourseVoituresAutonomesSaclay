@@ -3,6 +3,7 @@ nav:
     - Home: index.md
     - Règlement: Reglement_CourseVoituresAutonomes.md
     - Voiture type: voiture_type.md
+    - Simulateur: simulateur.md
     - About: about.md
 theme: readthedocs
 site_url: https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/
