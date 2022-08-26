@@ -1,7 +1,9 @@
 site_name: Course de Voitures Autonomes Paris Saclay
 nav: 
     - Home: index.md
-    - Reglement: Reglement_CourseVoituresAutonomes.md
+    - Règlement: Reglement_CourseVoituresAutonomes.md
+    - Voiture type: voiture_type.md
+    - Simulateur: simulateur.md
     - About: about.md
 theme: readthedocs
 site_url: https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/
