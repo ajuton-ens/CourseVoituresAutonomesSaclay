@@ -16,6 +16,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/simulateur/</loc>
+         <lastmod>2022-08-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/voiture_type/</loc>
          <lastmod>2022-08-26</lastmod>
          <changefreq>daily</changefreq>
