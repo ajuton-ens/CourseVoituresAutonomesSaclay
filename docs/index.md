@@ -8,7 +8,7 @@ N'hésitez pas à rejoindre la compétition.
            margin-left: auto;
            margin-right: auto;
            width: 30%;"
-    src="images/logo_VAPS.png" 
+    src="images/logo_CVAPS.png" 
     alt="logo course de voitures autonomes">
 </img>
 
