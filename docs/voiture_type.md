@@ -1,7 +1,25 @@
 # Voiture type pour la course de voitures autonomes de Paris Saclay
 
-Une voiture type est proposée pour la course de voitures autonomes. Le kit complet devrait être disponible à la vente à partir de novembre 2022, notamment pour des équipes sans moyens de fabrication mécanique et/ou électronique.
+Une voiture type est proposée pour la course de voitures autonomes. Le kit complet est disponible à la vente depuis janvier 2023, notamment pour des équipes sans moyens de fabrication mécanique et/ou électronique.
 Cette voiture type n'est qu'un exemple pour aider les équipes à démarrer. Il ne demande qu'à être enrichi.
+
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 60%;"
+    src="../images/voiture_type_avec_carrosserie.jpg" 
+    alt="voiture type avec sa carrosserie">
+</img>
+
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 60%;"
+    src="../images/voiture_type_avec_carrosserie.jpg" 
+    alt="voiture type sans sa carrosserie">
+</img>
 
 ## Contrôle-commande
 
@@ -62,7 +80,6 @@ Enfin, les pièces 3D permettent une fixation propre des capteurs à l'avant (ca
 Voici une liste de matériel, de fournisseurs et de prix HT indicatifs.
 
 * Tamiya TT-02 1:10 Toyota GR86 ref 58694 - Conrad 2451022 - 132 €
-* Pièce de tuning Set levier de direction alu TT-02 ref 54574 - Conrad 1720254 - 40 €
 * Chargeur de modélisme 220 V 1A  MW6168V NiMH VOLTCRAFT - Conrad 237739 - 15 €
 * Pack de batterie (NiMh) 7.2 V 3000 mAh fiche T femelle - Conrad 238883 - 21 €
 * Servomoteur numérique Dynamixel AX-12 - Gotronic 36433 - 41 €
