@@ -1,0 +1,32 @@
+#VRML_SIM R2022b utf8
+# license: Copyright Cyberbotics Ltd. Licensed for use only with Webots.
+# license url: https://cyberbotics.com/webots_assets_license
+# tags: hidden
+
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2022b/projects/vehicles/protos/abstract/VehicleWheel.proto"
+
+PROTO TT02Wheel [
+  field SFString name "TT02 wheel"
+  hiddenField SFFloat tireRadius 0.04            # We need to make this value 'visible' to the car PROTO so that the tire radius can be sent to the controller.
+]
+{
+  VehicleWheel {
+    name IS name
+    thickness 0.035
+    tireRadius IS tireRadius
+    subdivision 32
+    curvatureFactor 0.1
+    edgeSubdivision 2
+    rimRadius 0.025
+    rimBeamNumber 10
+    rimBeamWidth 0.01
+    centralInnerRadius 0.0070
+    centralOuterRadius 0.0130
+    rimBeamThickness 0.010
+    rimBeamOffset 0.0096
+    contactMaterial "default"
+    physics Physics {}
+    boundingObject TRUE
+    logoSlot []
+  }
+}
