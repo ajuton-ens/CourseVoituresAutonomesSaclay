@@ -17,7 +17,7 @@ Cette voiture type n'est qu'un exemple pour aider les équipes à démarrer. Il 
            margin-left: auto;
            margin-right: auto;
            width: 60%;"
-    src="../images/voiture_type_avec_carrosserie.jpg" 
+    src="../images/voiture_type_sans_carrosserie.jpg" 
     alt="voiture type sans sa carrosserie">
 </img>
 
