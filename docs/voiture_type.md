@@ -1,6 +1,7 @@
 # Voiture type pour la course de voitures autonomes de Paris Saclay
 
-Une voiture type est proposée pour la course de voitures autonomes. Le kit complet est disponible à la vente depuis janvier 2023, notamment pour des équipes sans moyens de fabrication mécanique et/ou électronique.
+Une voiture type est proposée pour la course de voitures autonomes. Le kit complet et le kit {cartes électroniques, pièces mécaniques spécifiques} sont disponibles à la vente depuis janvier 2023, notamment pour des équipes sans moyens de fabrication mécanique et/ou électronique.
+
 Cette voiture type n'est qu'un exemple pour aider les équipes à démarrer. Il ne demande qu'à être enrichi.
 
 <img 
@@ -27,11 +28,11 @@ Le schéma synoptique de la partie contrôle-commande est le suivant, avec plusi
 
 ![synoptique d'une voiture type](images/Synoptique_voiture_2022.jpg)
 
-Une carte électronique de connexion de ces divers éléments est en cours de conception.
+Les schémas électroniques au format Eagle et en pdf sont fournis dans le dossier _Matériel_ du [dépôt Git](https://github.com/ajuton-ens/CourseVoituresAutonomesSaclay)
 
 ## La mécanique
 
-Des pièces mécaniques dont les fichiers 3D seront fournis prochainement sur le git permettent d'adapter le châssis TT-02 à ces équipements de contrôle-commande. 
+Des pièces mécaniques permettent d'adapter le châssis TT-02 à ces équipements de contrôle-commande. Les fichiers stl sont fournis dans le dossier _Matériel_ du [dépôt Git](https://github.com/ajuton-ens/CourseVoituresAutonomesSaclay)
 
 <img 
     style="display: block; 
@@ -42,16 +43,7 @@ Des pièces mécaniques dont les fichiers 3D seront fournis prochainement sur le
     alt="vue avec carrosserie de la voiture type avec caméra Realsense">
 </img>
 
-Outre les découpes propres de carrosserie, l'élément majeur de ce kit est l'ajout d'un codeur permettant d'obtenir une vitesse précise du moteur (éléments en rouge sur la figure ci-desssous)
-
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 60%;"
-    src="../images/huskylens.PNG" 
-    alt="vue sans carrosserie de la voiture type avec caméra Huskylens">
-</img>
+Outre les découpes propres de carrosserie, l'élément majeur de ce kit est la modification de la roue dentée de l'axe de transmission, l'ajout d'une fourche optique et d'un nouveau carter pour permettre la mesure de la vitesse du moteur.
 
 Le kit propose notamment la possibilité d'utiliser un servo-moteur numérique AX-12 à la place du servo-moteur analogique standard.
 
