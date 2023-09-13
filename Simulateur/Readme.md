@@ -7,9 +7,9 @@ https://www.cyberbotics.com/doc/guide/getting-started-with-webots
 Et de faire au minimum les tutoriaux 1, 2, 3, 4, 5 et 8 :
 https://www.cyberbotics.com/doc/guide/tutorials
 
-Le dossier compressé _Simulateur_CoVAPSy_Webots2023b_ contient une piste simple avec une voiture TT-02, des éléments pour faire sa piste et 2 voitures TT-02, l'une des deux pouvant servir de sparring partner à celle programmée par les étudiants.
+Le dossier compressé _Simulateur_CoVAPSy_Webots2023b_Base.zip_ contient une piste simple avec 3 voitures TT-02 (un sparring partner, une voiture programmée en C et une en python) ainsi que des éléments pour faire des pistes différentes.
 
-Pour modifier la piste. Le premier groupe contient les 6 éléments _solid_ de base (droit_1m, droit_50_cm et virage, en vert et en rouge) et le second groupe contient les éléments de la piste :
+Pour modifier la piste. Le premier groupe contient les 6 éléments _solid_ de base (droit_1m, droit_50_cm et virage, en vert et en rouge) :
 
 * Copier/Coller du premier groupe au second permet d'ajouter un élément
 * Une fois le _solid_ sélectionné dans la vue 3D, les flèches verte et rouge permettent de le déplacer. La flèche "rotation" bleue permet de le faire tourner.
