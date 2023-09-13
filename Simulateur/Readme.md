@@ -1,5 +1,5 @@
 # Démarrer avec Webots
-Plusieurs équipes utilisent le logiciel de simulation Webots version R2022b pour la saison 2022-2023.
+Plusieurs équipes utilisent le logiciel de simulation Webots version R2023b pour la saison 2023-2024.
 
 Pour commencer avec Webots, il est bon de lire au minimum le guide de démarrage rapide :
 https://www.cyberbotics.com/doc/guide/getting-started-with-webots
@@ -7,9 +7,7 @@ https://www.cyberbotics.com/doc/guide/getting-started-with-webots
 Et de faire au minimum les tutoriaux 1, 2, 3, 4, 5 et 8 :
 https://www.cyberbotics.com/doc/guide/tutorials
 
-Le dossier _Simulateur_CoVAPSy_Webots2022b_ contient une piste simple avec une voiture TT-02.
-
-Le dossier _Simulateur_CoVAPSy_Webots2022b_2voitures_elements_de_piste_ contient une piste plus complexe, des éléments pour faire sa piste et 2 voitures TT-02, l'une des deux pouvant servir de sparring partner à celle programmée par les étudiants.
+Le dossier compressé _Simulateur_CoVAPSy_Webots2023b_ contient une piste simple avec une voiture TT-02, des éléments pour faire sa piste et 2 voitures TT-02, l'une des deux pouvant servir de sparring partner à celle programmée par les étudiants.
 
 Pour modifier la piste. Le premier groupe contient les 6 éléments _solid_ de base (droit_1m, droit_50_cm et virage, en vert et en rouge) et le second groupe contient les éléments de la piste :
 
