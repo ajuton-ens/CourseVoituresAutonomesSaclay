@@ -3,8 +3,8 @@ import time
 
 #paramètres de départ, avec des butées très proche du centre
 direction = 1 #1 pour angle_pwm_min a gauche, -1 pour angle_pwm_min à droite
-angle_pwm_min = 6.7   #min
-angle_pwm_max = 8.3   #max
+angle_pwm_min = 6   #min
+angle_pwm_max = 9   #max
 angle_pwm_centre= 7.5
 
 angle_degre_max = +18 #vers la gauche
@@ -31,7 +31,7 @@ print("g pour diminuer la butée gauche et G pour l'augmenter")
 print("d pour diminuer la butée droite et D pour l'augmenter")
 
 while True :
-    a = input("g, G, d, D ?")
+    a = input("angle, I, g, G, d, D ?")
     try :
         angle_degre=int(a)
         set_direction_degre(angle_degre)

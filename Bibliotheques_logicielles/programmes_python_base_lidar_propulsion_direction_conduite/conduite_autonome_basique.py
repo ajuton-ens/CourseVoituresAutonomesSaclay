@@ -3,25 +3,27 @@ import numpy as np
 import time
 from rpi_hardware_pwm import HardwarePWM
 
-#paramètres fonction vitesse_m_s, étalonnés avec test_pwm_propulsion.py
-stop_prop = 7.5
-point_mort_prop = 0.5
-pwm_max = 9 #pwm à laquelle on atteint la vitesse maximale
+#paramètres de la fonction vitesse_m_s
+direction_prop = -1 # -1 pour les variateurs inversés ou un petit rapport correspond à une marche avant
+pwm_stop_prop = 8.17
+point_mort_prop = 0.13
+delta_pwm_max_prop = 1.5 #pwm à laquelle on atteint la vitesse maximale
 
 vitesse_max_m_s_hard = 8 #vitesse que peut atteindre la voiture
 vitesse_max_m_s_soft = 2 #vitesse maximale que l'on souhaite atteindre
 
-#paramètres fonction set_direction_m_s, étalonnés via test_pwm_direction.py
-direction = 1 #1 pour angle_pwm_min a gauche, -1 sinon
-angle_pwm_min = 6.2   #min
-angle_pwm_max = 8.7   #max
-angle_pwm_centre= 7.4
+
+#paramètres de la fonction set_direction_degre
+direction = 1 #1 pour angle_pwm_min a gauche, -1 pour angle_pwm_min à droite
+angle_pwm_min = 6   #min
+angle_pwm_max = 9   #max
+angle_pwm_centre= 7.5
 
 angle_degre_max = +18 #vers la gauche
 angle_degre=0
 
 pwm_prop = HardwarePWM(pwm_channel=0, hz=50)
-pwm_prop.start(stop_prop)
+pwm_prop.start(pwm_stop_prop)
 
 def set_vitesse_m_s(vitesse_m_s):
     if vitesse_m_s > vitesse_max_m_s_soft :
@@ -29,21 +31,21 @@ def set_vitesse_m_s(vitesse_m_s):
     elif vitesse_m_s < -vitesse_max_m_s_hard :
         vitesse_m_s = -vitesse_max_m_s_hard
     if vitesse_m_s == 0 :
-        pwm_prop.change_duty_cycle(stop_prop)
+        pwm_prop.change_duty_cycle(pwm_stop_prop)
     elif vitesse_m_s > 0 :
-        vitesse = vitesse_m_s * (pwm_max-stop_prop-point_mort_prop)/vitesse_max_m_s_hard
-        pwm_prop.change_duty_cycle(stop_prop + point_mort_prop + vitesse )
+        vitesse = vitesse_m_s * (delta_pwm_max_prop)/vitesse_max_m_s_hard
+        pwm_prop.change_duty_cycle(pwm_stop_prop + direction_prop*(point_mort_prop + vitesse ))
     elif vitesse_m_s < 0 :
-        vitesse = vitesse_m_s * (pwm_max-stop_prop-point_mort_prop)/vitesse_max_m_s_hard
-        pwm_prop.change_duty_cycle(stop_prop - point_mort_prop + vitesse )
+        vitesse = vitesse_m_s * (delta_pwm_max_prop)/vitesse_max_m_s_hard
+        pwm_prop.change_duty_cycle(pwm_stop_prop - direction_prop*(point_mort_prop - vitesse ))
         
 def recule():
     set_vitesse_m_s(-vitesse_max_m_s_hard)
     time.sleep(0.2)
     set_vitesse_m_s(0)
-    time.sleep(0.1)
+    time.sleep(0.2)
     set_vitesse_m_s(-1)
-
+    
 pwm_dir = HardwarePWM(pwm_channel=1,hz=50)
 pwm_dir.start(angle_pwm_centre)
 
@@ -95,6 +97,6 @@ lidar.stop()
 time.sleep(1)
 lidar.disconnect()
 pwm_dir.stop()
-pwm_prop.stop()
+pwm_prop.start(pwm_stop_prop)
 
 

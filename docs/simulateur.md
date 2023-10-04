@@ -4,7 +4,8 @@ Pour accélérer le développement d'algorithmes pour les voitures autonomes, pl
 
 Un partage des différentes expériences sur simulateur est souhaitée pour permettre le démarrage plus rapide des nouvelles équipes, voire des confrontations sur simulateur, avant la date de la course officielle.
 
-Depuis janvier 2023, un simulateur webots 2022b avec une voiture type, un contrôleur basique et des éléments de la piste officielle est disponible sur le git, dans le dossier [Simulateur_CoVAPSy_Webots2022b](https://github.com/ajuton-ens/CourseVoituresAutonomesSaclay/tree/main/Simulateur/Simulateur_CoVAPSy_Webots2022b)
+Pour la saison 2023-2024, un projet webots 2023b avec une voiture type, un contrôleur basique en C et un en python et des éléments de la piste officielle est disponible sur le git, dans l'archive [Simulateur_CoVAPSy_Webots2023b](https://github.com/ajuton-ens/CourseVoituresAutonomesSaclay/blob/main/Simulateur/Simulateur_CoVAPSy_Webots2023b_Base.zip)
 
-![copie d'écran Webots](images/SimulateurCoVAPSy_Webots2022b.png)
+![copie d'écran Webots](images/SimulateurCoVAPSy_Webots2023b.png)
 
+Un article Culture Sciences de l'ingénieur accompagne les premiers pas sur le simulateur (lien à venir)

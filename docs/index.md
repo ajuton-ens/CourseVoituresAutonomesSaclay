@@ -12,13 +12,17 @@ N'hésitez pas à rejoindre la compétition.
     alt="logo course de voitures autonomes">
 </img>
 
-## Date de l'édition 2023
+## Date de l'édition 2024
 
-L'édition 2023 aura lieu le samedi 15 avril à l'ENS Paris Saclay.
+L'édition 2024 aura lieu le samedi 30 mars à l'ENS Paris Saclay.
 
 ## Editions précédentes
 
-Un résumé et une vidéo des éditions précédentes est disponible sur la page web [Culture Sciences de l'Ingénieur](https://eduscol.education.fr/sti/si-ens-paris-saclay/actualites/course-de-voitures-autonomes-2022-resultats)
+Des résumés et des vidéos des éditions précédentes sont disponibles sur le site de Culture Sciences de l'Ingénieur : 
+* [Edition 2023](https://eduscol.education.fr/sti/si-ens-paris-saclay/actualites/course-voitures-autonomes-2023-resultats)
+* [Editions 2021 2022](https://eduscol.education.fr/sti/si-ens-paris-saclay/actualites/course-de-voitures-autonomes-2022-resultats)
+
+
 
 <img 
     style="display: block; 
