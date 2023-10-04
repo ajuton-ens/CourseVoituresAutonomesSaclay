@@ -1,5 +1,4 @@
 from rplidar import RPLidar
-import numpy as np
 import time
 from rpi_hardware_pwm import HardwarePWM
 
