@@ -4,7 +4,7 @@ import time
 import matplotlib.pyplot as plt
 
 #connexion et démarrage du lidar
-lidar = RPLidar("/dev/ttyUSB0",baudrate=115200)
+lidar = RPLidar("/dev/ttyUSB0",baudrate=256000)
 lidar.connect()
 print (lidar.get_info())
 lidar.start_motor()
