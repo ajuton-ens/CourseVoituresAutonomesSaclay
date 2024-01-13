@@ -1,11 +1,11 @@
 from rpi_hardware_pwm import HardwarePWM
 import time
 
-#paramètres de la fonction vitesse_m_s, à étalonner
-direction_prop = -1 # -1 pour les variateurs inversés ou un petit rapport correspond à une marche avant
-pwm_stop_prop = 8.17
-point_mort_prop = 0.13
-delta_pwm_max_prop = 1.5 #pwm à laquelle on atteint la vitesse maximale
+#paramètres de la fonction vitesse_m_s, à étalonner 
+direction_prop = 1 # -1 pour les variateurs inversés ou un petit rapport correspond à une marche avant
+pwm_stop_prop = 7.7
+point_mort_prop = 0.5
+delta_pwm_max_prop = 1. #pwm à laquelle on atteint la vitesse maximale
 
 vitesse_max_m_s_hard = 8 #vitesse que peut atteindre la voiture
 vitesse_max_m_s_soft = 2 #vitesse maximale que l'on souhaite atteindre
