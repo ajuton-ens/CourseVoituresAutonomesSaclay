@@ -49,29 +49,40 @@ Une piste est proposée en kit par le CRIC.
 ## Homologations
 
 48h avant la journée course, les équipes doivent envoyer par mail une présentation de leur voiture (poster, diaporama, vidéo...) : schéma synoptique de la voiture, spécificités matérielles, méthode de navigation, outils IA utilisés,...
+
 L’homologation consiste à une validation des éléments du véhicule (dimensions, batterie, châssis, démarrage et arrêt à distance, couleur détectable par un lidar...) et à la vérification de l’aptitude du véhicule à se déplacer sur un élément droit de piste plus un virage sans toucher les bordures et à repartir en marche arrière en cas de blocage contre un obstacle et en l'absence de véhicule derrière.
+
 Une homologation avec pénalité est envisageable, par l'ensemble des arbitres pour de légères infractions au règlement : un véhicule qui ne démarre pas ou ne s'arrête pas ou mal à distance, non fonctionnement de la marche arrière par exemple.
 
 ## Qualifications
 
 Les qualifications se font une voiture à la fois. 
+
 Une première qualification a lieu sans obstacle sur une piste A. 
+
 Une seconde qualification a lieu avec des obstacles fixes d’une taille supérieure à celle d’une voiture, sur une piste B.
+
 Pour chaque qualification, la voiture s’élance pour 2 tours. La voiture a, pour chaque qualification 2 essais et le meilleur des 2 temps est retenu, ceci pour palier à un problème technique par exemple survenu lors du premier essai.
+
 En cas d'échec à terminer les 2 tours, 120s est compté.
+
 Le résultat, somme des temps des 2 qualifications, détermine la grille de départ, la voiture la plus rapide s’élançant en tête sur la grille de départ. Les 6 premières voitures s'élancent pour la course 1, les 6 suivantes s'élancent pour la course 2, ceci pour chaque manche.
 
 ## La course
 
 Les équipes ont 3 mn pour installer leur véhicule sur la piste.
+
 L’ensemble des véhicules sont positionnés sur la grille de départ selon les résultats des qualifications. Une fois que toutes les équipes ont annoncé être prêtes, il est interdit de toucher les véhicules. Le signal de départ est donné oralement par l’arbitre.
 On relève l’ordre d’arrivée après un nombre de tours définis à l’avance (5 par défaut).
 Une voiture ne terminant pas le nombre de tours définis n'est pas classée.
+
 Un véhicule ne peut avoir un comportement notoirement agressif envers les véhicules adverses. Une voiture ne peut volontairement empêcher une autre de la doubler.
+
 L’arbitre peut disqualifier un tel véhicule et le retirer de la piste.
+
 L’arbitre ou l’un de ses assistants enlève un véhicule immobilisé sur la piste plus de 10 secondes en l'absence d'une voiture le bloquant. Il en est de même pour un véhicule ayant parcouru plus de 2m à contre-sens.
 
 2 manches ont lieu (une manche pouvant être composée de plusieurs courses). Les points sont distribués de la manière suivante :
-1er 25 pts ; 2nd 18 pts ; 3ème 15 pts ; 4ème 12 pts ; 5ème 10 pts
-6ème 8 pts ; 7ème 6 pts ; 8ème 4 pts ; 9ème 2 pts ; 10ème 1 pts ; 
+1er 25 pts ; 2nd 18 pts ; 3ème 15 pts ; 4ème 12 pts ; 5ème 10 pts ; 6ème 8 pts ; 7ème 6 pts ; 8ème 4 pts ; 9ème 2 pts ; 10ème 1 pts ; 
+
 En cas d'égalité, les temps des qualifications sont pris en compte.
