@@ -21,6 +21,7 @@ Pour améliorer la mécanique de la direction, il est possible de changer quelqu
 Toute modification importante du châssis (au delà de quelques perçages) doit faire l’objet d’une demande et d’une acceptation par les autres écoles participant à la course. L’envoi doit comprendre les références ou plans des modifications prévues.
 
 La communication de l’équipe avec le véhicule doit se limiter à l’envoi d’un signal de démarrage et d’un signal d’arrêt. Le véhicule peut envoyer des informations à l’équipe (Télémétrie). Envoyer des commandes modifiant le comportement du véhicule entraîne la disqualification de l’équipe.
+
 Une batterie secondaire pour l’électronique est autorisée. Une alimentation du moteur avec une tension supérieure à la tension batterie n’est pas autorisée.
 
 Une voiture type est proposée en kit (voir menu *Voiture type*).
@@ -48,7 +49,7 @@ Une piste est proposée en kit par le CRIC.
 ## Homologations
 
 48h avant la journée course, les équipes doivent envoyer par mail une présentation de leur voiture (poster, diaporama, vidéo...) : schéma synoptique de la voiture, spécificités matérielles, méthode de navigation, outils IA utilisés,...
-L’homologation consiste à une validation des éléments du véhicule (dimensions, batterie, châssis, démarrage et arrêt à distance, couleur détectable par un lidar...) et à la vérification de l’aptitude du véhicule à se déplacer sur un élément droit de piste sans toucher les bordures et à repartir en marche arrière en cas de blocage contre un obstacle et en l'absence de véhicule derrière.
+L’homologation consiste à une validation des éléments du véhicule (dimensions, batterie, châssis, démarrage et arrêt à distance, couleur détectable par un lidar...) et à la vérification de l’aptitude du véhicule à se déplacer sur un élément droit de piste plus un virage sans toucher les bordures et à repartir en marche arrière en cas de blocage contre un obstacle et en l'absence de véhicule derrière.
 Une homologation avec pénalité est envisageable, par l'ensemble des arbitres pour de légères infractions au règlement : un véhicule qui ne démarre pas ou ne s'arrête pas ou mal à distance, non fonctionnement de la marche arrière par exemple.
 
 ## Qualifications
@@ -70,6 +71,7 @@ Un véhicule ne peut avoir un comportement notoirement agressif envers les véhi
 L’arbitre peut disqualifier un tel véhicule et le retirer de la piste.
 L’arbitre ou l’un de ses assistants enlève un véhicule immobilisé sur la piste plus de 10 secondes en l'absence d'une voiture le bloquant. Il en est de même pour un véhicule ayant parcouru plus de 2m à contre-sens.
 
-2 manches ont lieu (une manche pouvant être composées de plusieurs courses). Les points sont distribués de la manière suivante :
+2 manches ont lieu (une manche pouvant être composée de plusieurs courses). Les points sont distribués de la manière suivante :
 1er 25 pts ; 2nd 18 pts ; 3ème 15 pts ; 4ème 12 pts ; 5ème 10 pts
 6ème 8 pts ; 7ème 6 pts ; 8ème 4 pts ; 9ème 2 pts ; 10ème 1 pts ; 
+En cas d'égalité, les temps des qualifications sont pris en compte.
