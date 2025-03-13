@@ -3,9 +3,9 @@ import time
 
 #paramètres de départ, avec des butées très proche du centre
 direction = -1 #1 pour angle_pwm_min a gauche, -1 pour angle_pwm_min à droite
-angle_pwm_min = 6.6   #min
-angle_pwm_max = 8.9   #max
-angle_pwm_centre= 7.75
+angle_pwm_min = 5.5   #min
+angle_pwm_max = 9.3   #max
+angle_pwm_centre= 7.4
 
 angle_degre_max = +18 #vers la gauche
 angle_degre=0
