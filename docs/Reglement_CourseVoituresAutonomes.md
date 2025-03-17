@@ -65,18 +65,18 @@ Pour les courses comme pour les qualifications, une voiture faisant du SLAM peuv
 La première phase de qualification se déroule sur 2 passages avec une voiture seule sur une piste A comportant des obstacles fixes d'une taille proche de celle d'une voiture.
 A chaque passage, la voiture s’élance pour 2 tours. Le meilleur des 2 temps est retenu, afin de palier à un éventuel problème technique survenu lors du premier passage.
 
-En cas d'échec sur les 2 passages à terminer les 2 tours, Un temps de 120s est retenu.
+En cas d'échec sur les 2 passages à terminer les 2 tours, un temps de 120 s est retenu.
 
-A l'issue de la première phase de qualification, la première voiture obtient 25 points, la seconde 24 points et ainsi de suite jusqu'à 5 points minimum pour toute voiture ayant moins de 120s. Les voitures n'ayant pas bouclé un seul passage de 2 tours ont 0 points.
+A l'issue de la première phase de qualification, la première voiture obtient 25 points, la seconde 24 points et ainsi de suite jusqu'à 5 points minimum pour toute voiture ayant moins de 120 s. Les voitures n'ayant pas bouclé un seul passage de 2 tours ont 0 points.
 
 ## Qualifications 2 - courses
 
-La seconde phase de qualification se fait lors de 2 courses de poules regroupant 4 à 8 voitures sur 3 tours d'une piste B et 3 tours d'une piste C. La manière d'établir les poules est établie en fonction du classement des qualifications et en fontion de la technologie retenue.... A chaque course la voiture engrange des points pour le classement général des qualifications : 10 points pour le premier, 6 points pour le 2nd, 4 pour le 3ème, et 2 points pour les voitures ayant terminé la course. Une voiture ne bouclant pas les 3 tours n'obtient aucun point.
+La seconde phase de qualification se fait lors de 2 courses de poules regroupant 4 à 8 voitures sur 3 tours d'une piste B et 3 tours d'une piste C. La manière d'établir les poules est établie en fonction du classement des qualifications et en fontion de la technologie retenue.... A chaque course la voiture accumule des points pour le classement général des qualifications : 10 points pour le premier, 6 points pour le 2nd, 4 pour le 3ème, et 2 points pour les voitures ayant terminé la course. Une voiture ne bouclant pas les 3 tours n'obtient aucun point.
 
 Pour chaque course (y compris la course finale) : 
 
-* Les équipes ont 3 mn pour installer leur véhicule sur la piste.
-* L’ensemble des véhicules de la poule sont positionnés sur la grille de départ selon les résultats des qualifications.
+* Les équipes ont 3 min pour installer leur véhicule sur la piste.
+* L’ensemble des véhicules de la poule est positionné sur la grille de départ selon les résultats des qualifications.
 * Une fois que toutes les équipes ont annoncé être prêtes, il est interdit de toucher les véhicules. Le signal de départ est donné oralement par l’arbitre.
 * L’ordre d’arrivée est relevé après un nombre de tours définis à l’avance (3 par défaut pour la phase de qualification et 5 pour les phases finales).
 * Une voiture ne terminant pas le nombre de tours définis n'est pas classée.
@@ -85,7 +85,7 @@ L'arbitre et les commissaires de course veillent au bon déroulement des courses
 
 * Un véhicule ayant un comportement notoirement agressif envers les véhicules adverses est disqualifié retiré de la piste, de même qu'une voiture empêchant volontairement une autre de la doubler.
 * un véhicule immobilisé sur la piste plus de 10 secondes en l'absence d'une voiture le bloquant est retiré de la piste.
-* un véhicule ayant parcouru plus de 2m à contre-sens est retiré de la piste.
+* un véhicule ayant parcouru plus de 2 m à contre-sens est retiré de la piste.
 
 ## Les phases finales - courses, en 2 manches
 
@@ -93,9 +93,9 @@ A l'issue des qualification, les points des 2 phases de qualification sont addit
 
 2 manches ont lieu composées de chacune de plusieurs courses : Nbcourses = Nbvoitures/(Nb places sur la grille de départ)
 
-Pour chacune des 2 manches, les 6 à 8 premières voitures participent à la course 1, les suivantes à la course 2, etc. Le classement des qualifications détermine la grille de départ, la voiture la plus rapide s’élançant en tête sur la grille de départ. 
+Pour chacune des 2 manches, les 6 à 8 premières voitures participent à la course 1, les suivantes à la course 2, etc. Le classement des qualifications détermine la grille de départ, la voiture ayant le plus de points s’élançant en tête sur la grille de départ. 
 
-Les arbitres relèvent l’ordre d’arrivée après un nombre de tours définis à l’avance (5 par défaut) et attribuent les points de la manière suivante : 25 pts pour le 1er, 18 pts pour le 2d, 15 pts pour le 3e, 12 pts pour le 4e ; 10 pts pour le 5e, 8 pts pour le 6e ; 6 pts pour le 7e, 4 pts pour le 8e ; 2 pts pour le 9e et 1 pt pour le 10e. Une voiture ne terminant pas le nombre de tours définis obtient 0 point. Une fois les voitures de la première course classées, on continue l'attribution des points aux voitures de la 2nde course. 
+Les arbitres relèvent l’ordre d’arrivée après un nombre de tours définis à l’avance (5 par défaut) et attribuent les points de la manière suivante : 25 pts pour le 1er, 18 pts pour le 2e, 15 pts pour le 3e, 12 pts pour le 4e ; 10 pts pour le 5e, 8 pts pour le 6e ; 6 pts pour le 7e, 4 pts pour le 8e ; 2 pts pour le 9e et 1 pt pour le 10e. Une voiture ne terminant pas le nombre de tours défini obtient 0 point. Une fois les voitures de la première course classées, on continue l'attribution des points aux voitures de la 2nde course. 
 
 En cas d'égalité, les points des qualifications sont pris en compte pour le classement final.
 
