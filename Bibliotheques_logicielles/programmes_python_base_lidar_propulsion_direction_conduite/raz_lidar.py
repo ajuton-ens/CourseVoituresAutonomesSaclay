@@ -1,7 +1,7 @@
 from rplidar import RPLidar
 import time
 
-lidar = RPLidar("/dev/ttyUSB0",baudrate=256000)
+lidar = RPLidar("/dev/ttyUSB0",baudrate=115200)
 lidar.disconnect()
 time.sleep(1)
 lidar.connect()

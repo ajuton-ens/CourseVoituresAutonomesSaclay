@@ -12,13 +12,15 @@ N'hésitez pas à rejoindre la compétition.
     alt="logo course de voitures autonomes">
 </img>
 
-## Date de l'édition 2025
+## Date de l'édition 2026
 
-L'édition 2025 aura lieu le samedi 5 avril à l'ENS Paris Saclay.
+L'édition 2026 aura lieu le samedi 11 avril à l'ENS Paris Saclay.
 
 ## Editions précédentes
 
 Des résumés et des vidéos des éditions précédentes sont disponibles sur le site de Culture Sciences de l'Ingénieur : 
+
+* [Edition 2025](https://sti.eduscol.education.fr/si-ens-paris-saclay/actualites/course-voitures-autonomes-paris-sacaly-2025)
 
 * [Edition 2024](https://eduscol.education.fr/sti/si-ens-paris-saclay/actualites/course-voitures-autonomes-paris-
 saclay-2024)
