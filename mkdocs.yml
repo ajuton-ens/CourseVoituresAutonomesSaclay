@@ -1,11 +1,41 @@
-site_name: Course de Voitures Autonomes Paris Saclay
-nav: 
-    - Home: index.md
+# mkdocs.yml
+docs_dir: docs
+site_dir: public
+site_url: https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/
+site_name: Course de Voitures Autonomes Paris–Saclay CoVAPSy
+
+theme:
+  name: material
+
+nav:
+    - Accueil: index.md
     - Règlement: Reglement_CourseVoituresAutonomes.md
     - Voiture type: voiture_type.md
     - Simulateur: simulateur.md
-    - About: about.md
-theme: readthedocs
-site_url: https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/
-site_dir: public
+    - À propos: about.md
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          name: English
+          build: true
+          site_name: "Autonomous car race Paris Saclay (en)"
+          nav_translations:
+            Accueil: Home
+            Règlement: Rules
+            Voiture type: Standard Car  
+            Simulateur: Simulator
+            À propos: about
+        - locale: fr
+          default: true
+          name: Français
+          build: true
+          site_name: "Course Voitures Autonomes Paris–Saclay (fr)"
+
 

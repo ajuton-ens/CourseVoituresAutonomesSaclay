@@ -9,7 +9,7 @@ Cette voiture type n'est qu'un exemple pour aider les équipes à démarrer. Il 
            margin-left: auto;
            margin-right: auto;
            width: 60%;"
-    src="../images/voiture_type_avec_carrosserie.jpg" 
+    src="images/voiture_type_avec_carrosserie.jpg" 
     alt="voiture type avec sa carrosserie">
 </img>
 
@@ -18,28 +18,28 @@ Cette voiture type n'est qu'un exemple pour aider les équipes à démarrer. Il 
            margin-left: auto;
            margin-right: auto;
            width: 60%;"
-    src="../images/voiture_type_sans_carrosserie.jpg" 
+    src="images/voiture_type_sans_carrosserie.jpg" 
     alt="voiture type sans sa carrosserie">
 </img>
 
 ## Contrôle-commande
 
-Le schéma synoptique de la partie contrôle-commande est le suivant, avec plusieurs possibilités de Lidars, caméras, nano-ordinateurs ou micro-contrôleurs : 
+Le schéma synoptique de la partie contrôle-commande est le suivant, avec plusieurs possibilités de lidars, caméras, nano-ordinateurs ou micro-contrôleurs : 
 
 ![synoptique d'une voiture type](images/Synoptique_voiture_2022.jpg)
 
-Les schémas électroniques au format Eagle et en pdf sont fournis dans le dossier _Matériel_ du [dépôt Git](https://github.com/ajuton-ens/CourseVoituresAutonomesSaclay)
+Les schémas électroniques au format Eagle et en pdf sont fournis dans le dossier _Hardware_ du [dépôt Git](https://github.com/ajuton-ens/CourseVoituresAutonomesSaclay)
 
 ## La mécanique
 
-Des pièces mécaniques permettent d'adapter le châssis TT-02 à ces équipements de contrôle-commande. Les fichiers stl sont fournis dans le dossier _Matériel_ du [dépôt Git](https://github.com/ajuton-ens/CourseVoituresAutonomesSaclay)
+Des pièces mécaniques permettent d'adapter le châssis TT-02 à ces équipements de contrôle-commande. Les fichiers stl sont fournis dans le dossier _Hardware_ du [dépôt Git](https://github.com/ajuton-ens/CourseVoituresAutonomesSaclay)
 
 <img 
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
            width: 60%;"
-    src="../images/carrosserie.PNG" 
+    src="images/carrosserie.PNG" 
     alt="vue avec carrosserie de la voiture type avec caméra Realsense">
 </img>
 
@@ -52,7 +52,7 @@ Le kit propose notamment la possibilité d'utiliser un servo-moteur numérique A
            margin-left: auto;
            margin-right: auto;
            width: 30%;"
-    src="../images/montageAX12.PNG" 
+    src="images/montageAX12.PNG" 
     alt="zoom sur l'adaptation pour servo-moteur AX-12">
 </img>
 
@@ -63,7 +63,7 @@ Enfin, les pièces 3D permettent une fixation propre des capteurs à l'avant (ca
            margin-left: auto;
            margin-right: auto;
            width: 30%;"
-    src="../images/montagecapteursarriere.PNG" 
+    src="images/montagecapteursarriere.PNG" 
     alt="zoom sur la fixation des capteurs à l'arrière">
 </img>
 
@@ -90,25 +90,18 @@ Voici une liste de matériel, de fournisseurs et de prix TTC indicatifs.
 
 
 * Module Sonar SRF10 Devantech - Roboshop RB-Dev-10 - 36,86 €
-* 2 Capteurs de Distance GP2Y0A41SK0F IR Sharp - 4 à 30 cm - Roboshop RB-Dem-04 - 22,44 €
 * Module d'Orientation Absolue 9 DOF BNO055	Devantech - Roboshop RB-Dev-91 - 31,73 €
-* Module nano 33 IOT avec embases Arduino - RS 192-7589 - 25,98 €
+* Carte microcontrôleur Nucleo-G431KB - Farnell 3132398 - 10,89 €
+* Câble USB RS PRO, Micro-USB B vers USB A, 0.5m - RS 236-9078 - 2,89 €	
 * Fourche optique, avec câbles	OPTEK TECHNOLOGY OPB815WZ - Farnell 1497919 - 5,39 €
 
 
-* **Total des modules sur étagère**								737,17 €
+* **Total des modules sur étagère**								~725 €
 
 
 **Options :**
 
-Jetson nano à la place de la Raspberry Pi : 
-
-* Kit de développement NVIDIA Jetson Nano 4GB - Kubii DEV-4GB - 202,80 €		
-
-STM32 à la place de la carte Arduino :
-
-* Carte Nucleo STM32L432KC - Farnell 2580786 - 12,89 €		
-* Câble USB RS PRO, Micro-USB B vers USB A, 0.5m - RS 236-9078 - 2,89 €	
+Il est possible de remplacer le nano-ordinateur Raspberry Pi 4 par une carte Raspberry PI 5 (qu'il faut alors ventiler) ou une carte GPU Jetson Orin. Qualcomm/Thundercomm propose aussi une carte similaire, la rubik Pi 3
 
 Servomoteur numérique à la place du servomoteur analogique de direction :
 
@@ -117,11 +110,9 @@ Servomoteur numérique à la place du servomoteur analogique de direction :
 Caméra à placer sur le toit : 
 
 * Caméra Realsense D435i - Digikey 2311-82635D435IDKMP-ND - 445,54 €
-* Module HUSKYLENS DFROBOT SEN0305 - Farnell 3517863 - 65,30 €
-* Module intégré Husky Lens Pro AI DFROBOT SN0336 - Farnell 3517864 - 89,10 €
 
 
-Le CRIC propose l'ensemble des cartes électroniques de la voiture type pour 250 € et l'ensemble des pièces mécaniques pour 260 €
+La ménagerie technologique propose l'ensemble des cartes électroniques de la voiture type pour 250 € et l'ensemble des pièces mécaniques pour 260 €
 								
 	
 
