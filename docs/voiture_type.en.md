@@ -9,7 +9,7 @@ This standard car is just an example to help teams get started. It is meant to b
            margin-left: auto;
            margin-right: auto;
            width: 60%;"
-    src="images/voiture_type_avec_carrosserie.jpg" 
+    src="../../images/voiture_type_avec_carrosserie.jpg" 
     alt="standard car with body">
 </img>
 
@@ -18,7 +18,7 @@ This standard car is just an example to help teams get started. It is meant to b
            margin-left: auto;
            margin-right: auto;
            width: 60%;"
-    src="images/voiture_type_sans_carrosserie.jpg" 
+    src="../../images/voiture_type_sans_carrosserie.jpg" 
     alt="standard car without body">
 </img>
 
@@ -26,7 +26,7 @@ This standard car is just an example to help teams get started. It is meant to b
 
 The block diagram of the control system is as follows, with several options for lidars, cameras, single-board computers, or microcontrollers:
 
-![block diagram of a standard car](images/Synoptique_voiture_2022.jpg)
+![block diagram of a standard car](./../images/Synoptique_voiture_2022.jpg)
 
 The electronic schematics in Eagle and PDF format are provided in the _Hardware_ folder of the [Git repository](https://github.com/ajuton-ens/CourseVoituresAutonomesSaclay)
 
@@ -39,7 +39,7 @@ Mechanical parts allow the TT-02 chassis to be adapted to these control system c
            margin-left: auto;
            margin-right: auto;
            width: 60%;"
-    src="images/carrosserie.PNG" 
+    src="../../images/carrosserie.PNG" 
     alt="view with body of the standard car with Realsense camera">
 </img>
 
@@ -52,7 +52,7 @@ The kit notably offers the possibility to use a digital AX-12 servo motor instea
            margin-left: auto;
            margin-right: auto;
            width: 30%;"
-    src="images/montageAX12.PNG" 
+    src="../../images/montageAX12.PNG" 
     alt="close-up of the AX-12 servo motor adaptation">
 </img>
 
@@ -63,7 +63,7 @@ Finally, the 3D parts allow for proper mounting of sensors at the front (Raspber
            margin-left: auto;
            margin-right: auto;
            width: 30%;"
-    src="images/montagecapteursarriere.PNG" 
+    src="../../images/montagecapteursarriere.PNG" 
     alt="close-up of rear sensor mounting">
 </img>
 

@@ -1,6 +1,6 @@
 # Paris-Saclay Autonomous Car Race
 
-Since 2020, the event has welcomed teams of students (from IUTs, engineering schools, universities) for a 1/10th scale autonomous car race, in a friendly and collaborative spirit. The prospect of final victory does not prevent teams from helping each other throughout the year with the aim of making collective progress.
+Since 2020, the event has welcomed teams of students (from IUTs, engineer schools, universities) for a 1/10th scale autonomous car race, in a friendly and collaborative spirit. The prospect of final victory does not prevent teams from helping each other throughout the year with the aim of making collective progress.
 
 The 1/10th scale autonomous cars are a fantastic platform for hands-on experimentation with artificial intelligence. Reinforcement learning, supervised learning, imitation learning, unsupervised learning—AI in all its forms meets in Saclay every April.
 
@@ -11,7 +11,7 @@ Feel free to join the competition!
            margin-left: auto;
            margin-right: auto;
            width: 30%;"
-    src="images/logo_CVAPS.png" 
+    src="../../images/logo_CVAPS.png" 
     alt="autonomous car race logo">
 </img>
 
@@ -36,7 +36,7 @@ Summaries and videos of previous editions are available on the Culture Sciences 
            margin-left: auto;
            margin-right: auto;
            width: 100%;"
-    src="images/2025_depart_133.jpg" 
+    src="../../images/2025_depart_133.jpg" 
     alt="photo of the 2021 race">
 </img>
 

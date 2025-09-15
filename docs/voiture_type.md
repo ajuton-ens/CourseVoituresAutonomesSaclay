@@ -9,7 +9,7 @@ Cette voiture type n'est qu'un exemple pour aider les équipes à démarrer. Il 
            margin-left: auto;
            margin-right: auto;
            width: 60%;"
-    src="images/voiture_type_avec_carrosserie.jpg" 
+    src="../images/voiture_type_avec_carrosserie.jpg" 
     alt="voiture type avec sa carrosserie">
 </img>
 
@@ -18,7 +18,7 @@ Cette voiture type n'est qu'un exemple pour aider les équipes à démarrer. Il 
            margin-left: auto;
            margin-right: auto;
            width: 60%;"
-    src="images/voiture_type_sans_carrosserie.jpg" 
+    src="../images/voiture_type_sans_carrosserie.jpg" 
     alt="voiture type sans sa carrosserie">
 </img>
 
@@ -39,7 +39,7 @@ Des pièces mécaniques permettent d'adapter le châssis TT-02 à ces équipemen
            margin-left: auto;
            margin-right: auto;
            width: 60%;"
-    src="images/carrosserie.PNG" 
+    src="../images/carrosserie.PNG" 
     alt="vue avec carrosserie de la voiture type avec caméra Realsense">
 </img>
 
@@ -52,7 +52,7 @@ Le kit propose notamment la possibilité d'utiliser un servo-moteur numérique A
            margin-left: auto;
            margin-right: auto;
            width: 30%;"
-    src="images/montageAX12.PNG" 
+    src="../images/montageAX12.PNG" 
     alt="zoom sur l'adaptation pour servo-moteur AX-12">
 </img>
 
@@ -63,7 +63,7 @@ Enfin, les pièces 3D permettent une fixation propre des capteurs à l'avant (ca
            margin-left: auto;
            margin-right: auto;
            width: 30%;"
-    src="images/montagecapteursarriere.PNG" 
+    src="../images/montagecapteursarriere.PNG" 
     alt="zoom sur la fixation des capteurs à l'arrière">
 </img>
 

@@ -7,7 +7,7 @@ Ce règlement évolue d'année en année, n'hésitez pas à envoyer vos remarque
 Le véhicule doit utiliser un kit châssis/moteur Tamiya TT02 et pour la propulsion une batterie NiMH 7,2V 5000 mAh maximum. Une batterie secondaire, peu importe le type, est autorisée pour alimenter l'électronique. Une alimentation du moteur avec une tension supérieure à la tension batterie n’est pas autorisée. La voiture doit avoir une carrosserie la recouvrant à plus de 80 % (valeur estimée par le jury de manière peu scientifique...).
 Le véhicule avec l’ensemble de ses capteurs et actionneurs doit entrer dans les dimensions ci-dessous :
 
-![schema dimensions voitures](images/dimensions_voiture.png)
+![schema dimensions voitures](../images/dimensions_voiture.png)
 
 La voiture doit être visible des véhicules qui la suivent : la voiture doit présenter à l’arrière au moins un rectangle plein de largeur 150 mm et de hauteur 110 mm. Seul un peu de vide (< 10 mm de haut), pour la garde au sol du véhicule est accepté.
 Les carrosseries transparentes ou de couleur principale verte, rouge ou grise ne sont pas autorisées. Des guides pour peindre la voiture sont disponibles sur Youtube (ex : https://www.youtube.com/watch?v=MO5J6AqEpbs). Un test avec un lidar RP-Lidar A2M12 ou A2M8 valide la visibilité de l'arrière de la voiture. En cas de non détection (certaines peintures noires absorbent les infra-rouges), du scotch blanc cassé sera ajouté sur l'arrière de la voiture.
@@ -39,7 +39,7 @@ Les références des couleurs sont approximatives et les bords de piste parfois 
 
 Voici comme exemple une des pistes 2023 :
 
-![exemple de trace de piste](images/piste_2023.png)
+![exemple de trace de piste](../images/piste_2023.png)
 
 Une piste est proposée en kit par la ménagerie technologique.
 

@@ -7,7 +7,7 @@ These rules evolve from year to year; feel free to send your comments and sugges
 The vehicle must use a Tamiya TT02 chassis/motor kit and, for propulsion, a NiMH 7.2V battery with a maximum capacity of 5000 mAh. A secondary battery, of any type, is allowed to power the electronics. Powering the motor with a voltage higher than the battery voltage is not allowed. The car must have a body covering more than 80% of it (estimated by the jury in a non-scientific way...).
 The vehicle, with all its sensors and actuators, must fit within the dimensions below:
 
-![car dimensions diagram](images/dimensions_voiture.png)
+![car dimensions diagram](../../images/dimensions_voiture.png)
 
 The car must be visible to vehicles following it: the car must have at least one opaque rectangle at the rear, 150 mm wide and 110 mm high. Only a small gap (< 10 mm high) for ground clearance is allowed.
 Transparent bodies or those with green, red, or gray as the main color are not allowed. Guides for painting the car are available on YouTube (e.g., https://www.youtube.com/watch?v=MO5J6AqEpbs). A test with an RP-Lidar A2M12 or A2M8 validates the rear visibility of the car. If not detected (some black paints absorb infrared), off-white tape will be added to the rear of the car.
@@ -39,7 +39,7 @@ Color references are approximate, and the track edges may be marked by impacts.
 
 Here is an example of one of the 2023 tracks:
 
-![example track layout](images/piste_2023.png)
+![example track layout](../../images/piste_2023.png)
 
 A track kit is available from the Ménagerie Technologique.
 
