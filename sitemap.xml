@@ -1,28 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/</loc>
-         <lastmod>2025-06-25</lastmod>
-         <changefreq>daily</changefreq>
+        <loc>https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/en/"/>
     </url>
     <url>
-         <loc>https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/Reglement_CourseVoituresAutonomes/</loc>
-         <lastmod>2025-06-25</lastmod>
-         <changefreq>daily</changefreq>
+        <loc>https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/Reglement_CourseVoituresAutonomes/</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/Reglement_CourseVoituresAutonomes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/en/Reglement_CourseVoituresAutonomes/"/>
     </url>
     <url>
-         <loc>https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/about/</loc>
-         <lastmod>2025-06-25</lastmod>
-         <changefreq>daily</changefreq>
+        <loc>https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/about/</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/en/about/"/>
     </url>
     <url>
-         <loc>https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/simulateur/</loc>
-         <lastmod>2025-06-25</lastmod>
-         <changefreq>daily</changefreq>
+        <loc>https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/simulateur/</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/simulateur/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/en/simulateur/"/>
     </url>
     <url>
-         <loc>https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/voiture_type/</loc>
-         <lastmod>2025-06-25</lastmod>
-         <changefreq>daily</changefreq>
+        <loc>https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/voiture_type/</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/voiture_type/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/en/voiture_type/"/>
+    </url>
+    <url>
+        <loc>https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/en/</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/en/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/"/>
+    </url>
+    <url>
+        <loc>https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/en/Reglement_CourseVoituresAutonomes/</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/en/Reglement_CourseVoituresAutonomes/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/Reglement_CourseVoituresAutonomes/"/>
+    </url>
+    <url>
+        <loc>https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/en/Simulateur/</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/en/Simulateur/"/>
+    </url>
+    <url>
+        <loc>https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/en/about/</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/en/about/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/about/"/>
+    </url>
+    <url>
+        <loc>https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/en/simulateur/</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/en/simulateur/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/simulateur/"/>
+    </url>
+    <url>
+        <loc>https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/en/voiture_type/</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/en/voiture_type/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/voiture_type/"/>
     </url>
 </urlset>
