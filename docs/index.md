@@ -1,6 +1,9 @@
 # Course de Voitures Autonomes de Paris-Saclay
 
 L'événement accueille depuis 2020 des équipes d'étudiants (IUT, écoles d'ingénieurs, universités) pour une course de voitures 1/10ème autonomes, dans un esprit convivial et de collaboration. La perspective de la victoire finale n'empêche pas les équipes de s'entraider pendant l'année dans l'optique de progrès communs.
+
+Les voitures autonomes 1/10ème sont un formidable support pour l'expérimentation concrète de l'intelligence artificielle. Apprentissage par renforcement, apprentissage supervisé, par imitation, apprentissage non supervisé, toute l'IA a rendez-vous à Saclay en avril.
+
 N'hésitez pas à rejoindre la compétition.
 
 <img 
@@ -22,24 +25,21 @@ Des résumés et des vidéos des éditions précédentes sont disponibles sur le
 
 * [Edition 2025](https://sti.eduscol.education.fr/si-ens-paris-saclay/actualites/course-voitures-autonomes-paris-sacaly-2025)
 
-* [Edition 2024](https://eduscol.education.fr/sti/si-ens-paris-saclay/actualites/course-voitures-autonomes-paris-
-saclay-2024)
+* [Edition 2024](https://sti.eduscol.education.fr/si-ens-paris-saclay/actualites/course-voitures-autonomes-paris-saclay-2024)
 
-* [Edition 2023](https://eduscol.education.fr/sti/si-ens-paris-saclay/actualites/course-voitures-autonomes-2023-resultats)
+* [Edition 2023](https://sti.eduscol.education.fr/si-ens-paris-saclay/actualites/course-voitures-autonomes-2023-resultats)
 
-* [Editions 2021 2022](https://eduscol.education.fr/sti/si-ens-paris-saclay/actualites/course-de-voitures-autonomes-2022-resultats)
-
-
+* [Editions 2021 2022](https://sti.eduscol.education.fr/si-ens-paris-saclay/actualites/course-de-voitures-autonomes-2022-resultats)
 
 <img 
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 60%;"
-    src="images/photo2021_course_voitures_autonomes.jpg" 
+           width: 100%;"
+    src="images/2025_depart_133.jpg" 
     alt="photo de la course 2021">
 </img>
 
 ## Git
 
-Le [dépôt Git](https://github.com/ajuton-ens/CourseVoituresAutonomesSaclay) permet de trouver le réglement, quelques photos et vidéos ainsi que l'ensemble des ressources pour participer à la course de voitures autonomes de Paris Saclay et d'y partager les siennes.
+Le [dépôt Git](https://github.com/ajuton-ens/CourseVoituresAutonomesSaclay) permet de trouver le réglement, quelques photos et vidéos, une bibliographie ainsi que l'ensemble des ressources pour participer à la course de voitures autonomes de Paris Saclay et d'y partager les siennes.

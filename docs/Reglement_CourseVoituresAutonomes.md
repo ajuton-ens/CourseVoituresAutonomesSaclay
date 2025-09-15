@@ -1,10 +1,10 @@
 # Règlement de la Course de Voitures Autonomes de Paris Saclay CoVAPSy
 
-Ce règlement évolue d'année en année, n'hésitez pas à ajouter vos contributions.
+Ce règlement évolue d'année en année, n'hésitez pas à envoyer vos remarques et propositions.
 
 ## Le véhicule
 
-Le véhicule doit utiliser un kit châssis/moteur Tamiya TT02 et pour la propulsion une batterie NiMH 7,2V 5000 mAh maximum. Une batterie secondaire, peu importe le type, est autorisée pour alimenter l'électronique. Une alimentation du moteur avec une tension supérieure à la tension batterie n’est pas autorisée. Il doit avoir une carrosserie le recouvrant à plus de 80 % (valeur estimée par le jury de manière peu scientifique...).
+Le véhicule doit utiliser un kit châssis/moteur Tamiya TT02 et pour la propulsion une batterie NiMH 7,2V 5000 mAh maximum. Une batterie secondaire, peu importe le type, est autorisée pour alimenter l'électronique. Une alimentation du moteur avec une tension supérieure à la tension batterie n’est pas autorisée. La voiture doit avoir une carrosserie la recouvrant à plus de 80 % (valeur estimée par le jury de manière peu scientifique...).
 Le véhicule avec l’ensemble de ses capteurs et actionneurs doit entrer dans les dimensions ci-dessous :
 
 ![schema dimensions voitures](images/dimensions_voiture.png)
@@ -28,8 +28,6 @@ Une voiture type est proposée en kit (voir menu *Voiture type*) par la ménager
 La forme de la piste n’est pas connue avant le jour de la compétition. Donner des informations sur la forme de la piste à la voiture est interdit. Les arbitres peuvent demander de vérifier ce point sur une piste annexe par exemple. La voiture peut apprendre la piste en faisant jusqu'à 3 tours de mise en place.
 
 La piste est constituée de bordures de 200 mm de hauteur, vertes sur la droite dans le sens du déplacement et rouges sur la gauche. Ces bordures sont composées d'éléments droits et d'arcs de cercles de rayon de courbure R = 400mm ou plus. Le sol est un linoléum de couleur grise. La piste est en tout point d’une largeur supérieure à 800 mm, mais peut contenir des obstacles à l'intérieur.
-
-Un marquage blanc continu de 19 mm de hauteur est ajouté à partir de 2025 le long des bordures pour faciliter la vision. 
 
 Référence des couleurs : 
 
@@ -56,7 +54,7 @@ L’homologation se fait en 4 étapes :
 
 L'ensemble des arbitres peut envisager une homologation avec pénalité pour de légères infractions au règlement : un véhicule qui ne s'arrête pas ou mal à distance, non fonctionnement de la marche arrière par exemple.
 
-Pour les courses comme pour les qualifications, une voiture faisant du SLAM peuvt faire jusqu'à 3 tours de mise en place, sans obstacles. Les obstacles ou les voitures adverses sont ajoutées après, une fois la voiture en place sur la grille de départ.
+Pour les courses comme pour les qualifications, une voiture faisant du SLAM peut faire jusqu'à 3 tours de mise en place, sans obstacles. Les obstacles ou les voitures adverses sont ajoutées après, une fois la voiture en place sur la grille de départ.
 
 ## Qualifications 1 - contre la montre
 
