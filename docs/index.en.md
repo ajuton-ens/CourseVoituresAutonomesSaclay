@@ -11,7 +11,7 @@ Feel free to join the competition!
            margin-left: auto;
            margin-right: auto;
            width: 30%;"
-    src="../../images/logo_CVAPS.png" 
+    src="../images/logo_CVAPS.png" 
     alt="autonomous car race logo">
 </img>
 
@@ -36,7 +36,7 @@ Summaries and videos of previous editions are available on the Culture Sciences 
            margin-left: auto;
            margin-right: auto;
            width: 100%;"
-    src="../../images/2025_depart_133.jpg" 
+    src="../images/2025_depart_133.jpg" 
     alt="photo of the 2021 race">
 </img>
 

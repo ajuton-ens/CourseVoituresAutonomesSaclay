@@ -11,7 +11,7 @@ N'hésitez pas à rejoindre la compétition.
            margin-left: auto;
            margin-right: auto;
            width: 30%;"
-    src="../images/logo_CVAPS.png" 
+    src="images/logo_CVAPS.png" 
     alt="logo course de voitures autonomes">
 </img>
 
@@ -36,7 +36,7 @@ Des résumés et des vidéos des éditions précédentes sont disponibles sur le
            margin-left: auto;
            margin-right: auto;
            width: 100%;"
-    src="../images/2025_depart_133.jpg" 
+    src="images/2025_depart_133.jpg" 
     alt="photo de la course 2021">
 </img>
 

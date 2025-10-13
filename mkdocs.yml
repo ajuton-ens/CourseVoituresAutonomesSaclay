@@ -6,6 +6,7 @@ site_name: Course de Voitures Autonomes Paris–Saclay CoVAPSy
 
 theme:
   name: material
+  favicon: favicon.ico
 
 nav:
     - Accueil: index.md
