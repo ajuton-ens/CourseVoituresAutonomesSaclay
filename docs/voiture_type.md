@@ -112,7 +112,7 @@ Caméra à placer sur le toit :
 * Caméra Realsense D435i - Digikey 2311-82635D435IDKMP-ND - 445,54 €
 
 
-La ménagerie technologique propose l'ensemble des cartes électroniques de la voiture type pour 250 € et l'ensemble des pièces mécaniques pour 260 €
+La ménagerie technologique propose l'ensemble des cartes électroniques de la voiture type pour 350 € et l'ensemble des pièces mécaniques pour 250 €
 								
 	
 

@@ -106,4 +106,4 @@ Camera to be placed on the roof:
 
 * Realsense D435i Camera - Digikey 2311-82635D435IDKMP-ND - €445.54
 
-The Ménagerie Technologique offers all the electronic boards for the standard car for €250 and all the mechanical parts for 260 €.
+The Ménagerie Technologique offers all the electronic boards for the standard car for €350 and all the mechanical parts for 250 €.
