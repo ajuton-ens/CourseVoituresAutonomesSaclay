@@ -19,7 +19,7 @@ The car must be able to operate in both forward and reverse.
 To improve steering mechanics, some plastic parts may be replaced with commercially available aluminum parts (Yeah Racing TATT-S03BU available at Rcmart.com or Tamiya kit 54574 sold at Conrad).
 Any major modification to the chassis (beyond a few drillings) must be requested and approved by the other institutions participating in the race. The request must include references or plans of the intended modifications.
 
-Team communication with the vehicle must be limited to sending a start signal and a stop signal. The vehicle may send information to the team (telemetry). Sending commands that modify the vehicle's behavior will result in team disqualification. As with mechanical modifications, it is possible to request permission from other institutions to use a trackside computer for offboard computation.
+Team communication with the vehicle must be limited to sending a start signal and a stop signal. The vehicle may send information to the team (telemetry). Sending commands that modify the vehicle's behavior will result in team disqualification. For the 2026 edition, the use of a trackside computer is permitted at the end of remote calculations. Obviously, teams cannot touch this computer once the start has been announced..
 
 A standard car kit is available (see *Standard Car* menu) from the Ménagerie Technologique.
 
@@ -27,11 +27,11 @@ A standard car kit is available (see *Standard Car* menu) from the Ménagerie Te
 
 The track layout is not known before the day of the competition. Providing the car with information about the track layout is prohibited. Referees may check this, for example, on an auxiliary track. The car may learn the track by completing up to 3 setup laps.
 
-The track consists of 200 mm high borders, green on the right in the direction of travel and red on the left. These borders are made of straight elements and arcs with a curvature radius R = 400 mm or more. The floor is gray linoleum. The track is at all points wider than 800 mm but may contain obstacles inside.
+The track consists of 200 mm high borders, green on the right in the direction of travel and red on the left in one direction, and vice versa in the opposite direction. These borders are made of straight elements and arcs with a curvature radius R = 400 mm or more. The floor is gray linoleum. The track is at all points wider than 700 mm but may contain obstacles inside.
 
 Color references:
 
-* GREEN: RAL 6037
+* GREEN: RAL 6024
 * RED: RAL 3020
 * FLOOR: PVC GERFLOR concrete effect leone anthracite l.4 m Ref 83309786 (Leroy Merlin)
 
@@ -51,6 +51,7 @@ Homologation is done in 4 steps:
 * validation of remote start and stop,
 * verification of the vehicle's ability to move along a straight track section plus a curve without touching the borders,
 * verification of the vehicle's ability to reverse in case of blockage against an obstacle and in the absence of a vehicle behind.
+* verification of the vehicle's ability to avoid an obstacle (with the size of a car) on a section of track.
 
 The referees may consider homologation with a penalty for minor rule violations: for example, a vehicle that does not stop or reverse properly.
 
@@ -59,15 +60,15 @@ For both races and qualifications, a car using SLAM may complete up to 3 setup l
 ## Qualifications 1 – Time Trial
 
 The first qualification phase consists of 2 runs with a single car on track A, which includes fixed obstacles similar in size to a car.
-For each run, the car completes 2 laps. The best of the 2 times is kept, to compensate for any technical issue during the first run.
+For each run, the car completes 2 laps. The best of the 2 times is kept, to compensate for any technical issue during the first run. One of the passages is clockwise and the second is counterclockwise.
 
-If both runs fail to complete 2 laps, a time of 120 s is recorded.
+If the car fails to complete both laps on both attempts, a time of 120 seconds is recorded if the car completed one lap, and 180 seconds if it did not complete even one lap.
 
-At the end of the first qualification phase, the first car gets 25 points, the second 24 points, and so on down to a minimum of 5 points for any car with less than 120 s. Cars that do not complete a single 2-lap run get 0 points.
+At the end of the first qualification phase, the first car gets 25 points, the second 24 points, and so on down to a minimum of 5 points for any car with less than 120 s. A car that has completed just one lap (time of 120s) gets one point.
 
 ## Qualifications 2 – Races
 
-The second qualification phase consists of 2 group races with 4 to 8 cars over 3 laps on track B and 3 laps on track C. The method for forming the N groups is based on the qualification ranking (group n is composed of cars ranked n%N, where n is the group number and N is the number of groups). In each race, the car accumulates points for the overall qualification ranking: 10 points for first place, 6 for second, 4 for third, and 2 points for cars that finish the race. A car that does not complete all 3 laps gets no points.
+The second qualification phase consists of 2 group races with 4 to 8 cars over 3 laps on track B and 3 laps on track C (one clockwise and the other counterclockwise). The method for forming the N groups is based on the qualification ranking (group n is composed of cars ranked n%N, where n is the group number and N is the number of groups). In each race, the car accumulates points for the overall qualification ranking: 10 points for the first, 8 points for the 2nd, 6 for the 3rd, 4 for cars that completed all 3 laps and 1 point for cars that did not finish the race.
 
 For each race (including the final):
 

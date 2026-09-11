@@ -19,7 +19,7 @@ La voiture doit pouvoir fonctionner en marche avant et en marche arrière.
 Pour améliorer la mécanique de la direction, il est possible de changer quelques pièces plastiques par les jeux de pièces en alu du commerce (Yeah Racing TATT-S03BU disponible notamment chez Rcmart.com ou kit Tamiya 54574 vendu chez Conrad).
 Toute modification importante du châssis (au-delà de quelques perçages) doit faire l’objet d’une demande et d’une acceptation par les autres établissements participant à la course. L’envoi doit comprendre les références ou plans des modifications prévues.
 
-La communication de l’équipe avec le véhicule doit se limiter à l’envoi d’un signal de démarrage et d’un signal d’arrêt. Le véhicule peut envoyer des informations à l’équipe (télémétrie). Envoyer des commandes modifiant le comportement du véhicule entraîne la disqualification de l’équipe. Comme pour les modifications mécaniques, il est possible de demander aux autres établissements l'autorisation d'utiliser un ordinateur en bord de piste à la fin de calcul déporté.
+La communication de l’équipe avec le véhicule doit se limiter à l’envoi d’un signal de démarrage et d’un signal d’arrêt. Le véhicule peut envoyer des informations à l’équipe (télémétrie). Envoyer des commandes modifiant le comportement du véhicule entraîne la disqualification de l’équipe. Pour l'édition 2026, il est autorisé d'utiliser un ordinateur en bord de piste à la fin de calcul déporté. Evidemment, les équipes ne peuvent toucher à cet ordinateur une fois le départ annoncé.
 
 Une voiture type est proposée en kit (voir menu *Voiture type*) par la ménagerie technologique.
 
@@ -27,11 +27,11 @@ Une voiture type est proposée en kit (voir menu *Voiture type*) par la ménager
 
 La forme de la piste n’est pas connue avant le jour de la compétition. Donner des informations sur la forme de la piste à la voiture est interdit. Les arbitres peuvent demander de vérifier ce point sur une piste annexe par exemple. La voiture peut apprendre la piste en faisant jusqu'à 3 tours de mise en place.
 
-La piste est constituée de bordures de 200 mm de hauteur, vertes sur la droite dans le sens du déplacement et rouges sur la gauche. Ces bordures sont composées d'éléments droits et d'arcs de cercles de rayon de courbure R = 400mm ou plus. Le sol est un linoléum de couleur grise. La piste est en tout point d’une largeur supérieure à 800 mm, mais peut contenir des obstacles à l'intérieur.
+La piste est constituée de bordures de 200 mm de hauteur, vertes sur la droite dans le sens du déplacement et rouges sur la gauche dans un sens et inversement dans le sens contraire. Ces bordures sont composées d'éléments droits et d'arcs de cercles de rayon de courbure R = 400mm ou plus. Le sol est un linoléum de couleur grise. La piste est en tout point d’une largeur supérieure à 700 mm, mais peut contenir des obstacles à l'intérieur.
 
 Référence des couleurs : 
 
-* VERT : RAL 6037
+* VERT : RAL 6024
 * ROUGE : RAL 3020
 * SOL : Sol PVC GERFLOR effet béton leone anthracite l.4 m  Réf 83309786 (Leroy Merlin)
 
@@ -49,8 +49,9 @@ L’homologation se fait en 4 étapes :
 
 * validation des éléments du véhicule (dimensions, batterie, châssis, couleur détectable par un lidar...),
 * validation du démarrage et de l'arrêt à distance, 
-* vérification de l’aptitude du véhicule à se déplacer sur un élément droit de piste plus un virage sans toucher les bordures
-* vérification de l’aptitude du véhicule à repartir en marche arrière en cas de blocage contre un obstacle et en l'absence de véhicule derrière.
+* vérification de l’aptitude du véhicule à se déplacer sur un élément droit de piste plus un virage sans toucher les bordures,
+* vérification de l’aptitude du véhicule à repartir en marche arrière en cas de blocage contre un obstacle et en l'absence de véhicule derrière,
+* vérification de l'aptitude du véhicule à éviter un obstacle de la taille d'une voiture sur un tronçon de piste.
 
 L'ensemble des arbitres peut envisager une homologation avec pénalité pour de légères infractions au règlement : un véhicule qui ne s'arrête pas ou mal à distance, non fonctionnement de la marche arrière par exemple.
 
@@ -59,15 +60,15 @@ Pour les courses comme pour les qualifications, une voiture faisant du SLAM peut
 ## Qualifications 1 - contre la montre
 
 La première phase de qualification se déroule sur 2 passages avec une voiture seule sur une piste A comportant des obstacles fixes d'une taille proche de celle d'une voiture.
-A chaque passage, la voiture s’élance pour 2 tours. Le meilleur des 2 temps est retenu, afin de palier à un éventuel problème technique survenu lors du premier passage.
+A chaque passage, la voiture s’élance pour 2 tours. Le meilleur des 2 temps est retenu, afin de palier à un éventuel problème technique survenu lors du premier passage. Un des passages se fait dans le sens horaire et le second dans le sens trigonométrique.
 
-En cas d'échec sur les 2 passages à terminer les 2 tours, un temps de 120 s est retenu.
+En cas d'échec sur les 2 passages à terminer les 2 tours, un temps de 120 s est retenu si la voiture a fait un tour, 180 s si elle n'a pas même fini un tour.
 
-A l'issue de la première phase de qualification, la première voiture obtient 25 points, la seconde 24 points et ainsi de suite jusqu'à 5 points minimum pour toute voiture ayant moins de 120 s. Les voitures n'ayant pas bouclé un seul passage de 2 tours ont 0 points.
+A l'issue de la première phase de qualification, la première voiture obtient 25 points, la seconde 24 points et ainsi de suite jusqu'à 5 points minimum pour toute voiture ayant moins de 120 s. Une voiture ayant effectué juste un tour (temps de 120s) obtient un point.
 
 ## Qualifications 2 - courses
 
-La seconde phase de qualification se fait lors de 2 courses de poules regroupant 4 à 8 voitures sur 3 tours d'une piste B et 3 tours d'une piste C. La manière d'établir les N poules est établie en fonction du classement des qualifications (la poule n est composée des voitures classées n%N, n étant le numéro de la poule et N le nombre de poules). A chaque course la voiture accumule des points pour le classement général des qualifications : 10 points pour le premier, 6 points pour le 2nd, 4 pour le 3ème, et 2 points pour les voitures ayant terminé la course. Une voiture ne bouclant pas les 3 tours n'obtient aucun point.
+La seconde phase de qualification se fait lors de 2 courses de poules regroupant 4 à 8 voitures sur 3 tours d'une piste B et 3 tours d'une piste C (une dans le sens horaire et l'autre dans le sens trigonométrique). La manière d'établir les N poules est établie en fonction du classement des qualifications (la poule n est composée des voitures classées n%N, n étant le numéro de la poule et N le nombre de poules). A chaque course la voiture accumule des points pour le classement général des qualifications : 10 points pour le premier, 8 points pour le 2nd, 6 pour le 3ème, 4 pour les voitures ayant bouclé les 3 tours et 1 point pour les voitures n'ayant pas terminé la course.
 
 Pour chaque course (y compris la course finale) : 
 

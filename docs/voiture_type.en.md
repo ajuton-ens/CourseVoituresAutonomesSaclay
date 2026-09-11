@@ -67,7 +67,7 @@ Finally, the 3D parts allow for proper mounting of sensors at the front (Raspber
     alt="close-up of rear sensor mounting">
 </img>
 
-## Parts List
+## Parts List 2021
 
 Here is a list of equipment, suppliers, and indicative prices (including VAT).
 
@@ -94,15 +94,36 @@ Here is a list of equipment, suppliers, and indicative prices (including VAT).
 
 * **Total for off-the-shelf modules**								~€725
 
+## Parts List 2026
+
+* Tamiya TT-02 Ford Mustang GT4 KIT ref 58664 - RCTEAM 58664 - 129,90 €
+* Tamiya Pièce de Direction alu TT-02 54752 - RCTEAM 54752 - 67,20 €
+* SkyRC Chargeur Nimh eN18 1.2A - RCTeam SK100184-01 - 19,90 €
+* Robitronic Chargeur Peak Charger NiMh 1A - RCTEAM R01018 - 15,90 €
+* Absima Batterie NIMH 7.2V 4200mAh - RCTeam 4100012 - 2 x 23,90 €
+
+* Raspberry Pi 5 8 Go - Kubii - 204 €
+* Ventilateur dissipateur officiel pour Raspberry Pi 5 - Kubii - 6 €
+* Câble Micro-HDMI vers HDMI (type A) 1M pour PI4 - Kubii - 4,50 €
+* Carte Micro-SD SanDisk Classe 10 - Kubii - 16,20 €
+* Module caméra v3 Raspberry Pi grand angle - Kubii - 39 €
+* Nappe Cable pour Raspberry Pi Camera 30 cm - Kubii - 2,40 €
+
+* servomoteur HerkuleX DRS-0101 - Roboshop RB-Das-05 - 76,4 €
+* SLAMTEC RPLIDAR C1 Scanner Laser DTOF 360°  - Roboshop RB-Rpk-35 - 75,3 €
+
+* Module Sonar SRF10 Devantech - Gotronic 24506 - 19,90 €
+* Carte microcontrôleur Nucleo-G431KB - Farnell 3132398 - 17,76 €
+* Câble USB RS PRO, Micro-USB B vers USB A, 0.5m - RS 236-9078 - 2,86 €	
+* Fourche optique, avec câbles	OPTEK TECHNOLOGY OPB815WZ - Farnell 1497919 - 4,54 €
+
+* **Total for off-the-shelf modules**								~745 €
+
 **Options:**
 
-It is possible to replace the Raspberry Pi 4 single-board computer with a Raspberry Pi 5 (which then needs cooling) or a Jetson Orin GPU board. Qualcomm/Thundercomm also offers a similar board, the Rubik Pi 3.
+It is possible to replace the Raspberry Pi single-board computer with a Jetson Orin GPU board. Qualcomm/Thundercomm also offers a similar board, the Rubik Pi 3.
 
-Digital servo motor instead of the standard analog steering servo:
-
-* Dynamixel AX-12 Digital Servo Motor - Gotronic 36433 - €41
-
-Camera to be placed on the roof:
+Camera RGBD to be placed on the roof:
 
 * Realsense D435i Camera - Digikey 2311-82635D435IDKMP-ND - €445.54
 

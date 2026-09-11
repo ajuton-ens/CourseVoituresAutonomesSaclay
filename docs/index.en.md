@@ -21,15 +21,7 @@ The 2026 edition will take place on Saturday, April 11th at ENS Paris-Saclay.
 
 ## Previous Editions
 
-Summaries and videos of previous editions are available on the Culture Sciences de l'Ingénieur website:
-
-* [2025 Edition](https://sti.eduscol.education.fr/si-ens-paris-saclay/actualites/course-voitures-autonomes-paris-sacaly-2025)
-
-* [2024 Edition](https://sti.eduscol.education.fr/si-ens-paris-saclay/actualites/course-voitures-autonomes-paris-saclay-2024)
-
-* [2023 Edition](https://sti.eduscol.education.fr/si-ens-paris-saclay/actualites/course-voitures-autonomes-2023-resultats)
-
-* [2021 & 2022 Editions](https://sti.eduscol.education.fr/si-ens-paris-saclay/actualites/course-de-voitures-autonomes-2022-resultats)
+Summaries and videos from previous editions, as well as guides to get started (first Python programs, getting started with the simulator, reinforcement learning, ROS2...) are available on the Culture Sciences de l'Ingénieur website: [CoVAPSy Documents](https://sti.eduscol.education.fr/si-ens-paris-saclay/actualites/course-voitures-autonomes-paris-sacaly-2025)
 
 <img 
     style="display: block; 
@@ -37,7 +29,7 @@ Summaries and videos of previous editions are available on the Culture Sciences 
            margin-right: auto;
            width: 100%;"
     src="../images/2025_depart_133.jpg" 
-    alt="photo of the 2021 race">
+    alt="photo of the 2025 race">
 </img>
 
 ## Git
