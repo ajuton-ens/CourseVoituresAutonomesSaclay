@@ -15,9 +15,9 @@ N'hésitez pas à rejoindre la compétition.
     alt="logo course de voitures autonomes">
 </img>
 
-## Date de l'édition 2026
+## Date de l'édition 2027
 
-L'édition 2026 aura lieu le samedi 11 avril à l'ENS Paris Saclay.
+L'édition 2027 aura lieu le samedi 3 avril à l'ENS Paris Saclay.
 
 ## Editions précédentes
 

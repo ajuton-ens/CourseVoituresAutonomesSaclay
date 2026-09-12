@@ -15,9 +15,9 @@ Feel free to join the competition!
     alt="autonomous car race logo">
 </img>
 
-## 2026 Edition Date
+## 2027 Edition Date
 
-The 2026 edition will take place on Saturday, April 11th at ENS Paris-Saclay.
+The 2027 edition will take place on Saturday, April 3rd at ENS Paris-Saclay.
 
 ## Previous Editions
 
